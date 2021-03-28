@@ -1,0 +1,4 @@
+#Files to ignore by git
+#netbeans specific
+/nbproject/
+
